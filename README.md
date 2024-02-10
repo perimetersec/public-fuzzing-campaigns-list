@@ -1,4 +1,4 @@
-# Public Fuzzing Campgains
+# Public Fuzzing Campaigns
 
 ## Echidna & Medusa
 | Project | Repository | Author(s) | Last Commit |
