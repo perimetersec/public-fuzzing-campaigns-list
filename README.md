@@ -7,7 +7,6 @@
 | Superfluid Finance | [link](https://github.com/superfluid-finance/protocol-monorepo/tree/dev/packages/hot-fuzz) | Unknown | 2024-01 |
 | BadgerDAO eBTC | [link](https://github.com/ebtc-protocol/ebtc/tree/main/packages/contracts/contracts/TestContracts/invariants) | [Antonio Viggiano](https://twitter.com/agfviggiano) | 2023-10 |
 | Origin Dollar<br> | [link](https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts/echidna) | [Rappie](https://twitter.com/rappie_eth) | 2023-09 |
-| Morpho | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test) | Unknown | 2023-05 |
 | Kyber Network | [link](https://github.com/KyberNetwork/ks-elastic-sc/tree/main/contracts/echidna) | Unknown | 2023-04 |
 | Pods Finance | [link](https://github.com/pods-finance/yield-contracts/tree/main/test/invariants) | [Antonio Viggiano](https://twitter.com/agfviggiano) | 2023-03 |
 | Ondo Finance | [link](https://github.com/ondoprotocol/tokenized-funds/tree/main/contracts/echidna) | Unknown | 2023-02 |
@@ -33,3 +32,4 @@
 | DSS Conduits | [link](https://github.com/makerdao/dss-conduits/tree/master/test/arranger-conduit/invariants) | Unknown | 2023-10 |
 | Basin | [link](https://github.com/BeanstalkFarms/Basin/tree/master/test/invariant) | Unknown | 2023-08 |
 | LLama | [link](https://github.com/llamaxyz/llama/tree/main/test/invariants) | Unknown | 2023-07 |
+| Morpho | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test) | Unknown | 2023-05 |
