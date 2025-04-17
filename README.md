@@ -1,3 +1,10 @@
+# Public Fuzzing Campaigns
+This repository lists public fuzzing campaigns. It is maintained by [Rappie](https://x.com/rappie_eth) and updated regularly to showcase the latest in fuzzing.
+
+Check out the campaigns below to see what's being fuzzed.
+
+If you know of a campaign that's missing, feel free to reach out on X or open a GitHub issue.
+
 ## Echidna & Medusa
 | Project                   | Repository                                                                                                                                           | Author(s)                                                                                                                   | Last Commit |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
