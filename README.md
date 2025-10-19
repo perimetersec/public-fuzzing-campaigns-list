@@ -56,17 +56,17 @@ If you know of a campaign that's missing, feel free to reach out on X or open a 
 | Circle FiatToken          | [link](https://github.com/circlefin/stablecoin-evm/tree/master/echidna_tests)                                                                        | Unknown                                                                                                                     | 2018-08     |
 
 ## Foundry Invariant Testing
-| Project              | Repository                                                                                    | Author(s)                                   | Last Commit |
-| -------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- |
-| Contract Level Yield | [link](https://github.com/contractlevel/yield/tree/main/test/invariant)                       | Unknown                                     | 2025-10     |
-| Ion Protocol         | [link](https://github.com/Ion-Protocol/ion-protocol/tree/master/test/invariant/IonPool)       | [Hrik](https://x.com/HrikBho)               | 2024-05     |
-| Ajna Finance         | [link](https://github.com/ajna-finance/ajna-core/tree/master/tests/forge/invariants)          | Unknown                                     | 2024-01     |
-| Alchemix             | [link](https://github.com/alchemix-finance/v2-foundry/tree/master/src/test)                   | Unknown                                     | 2024-01     |
-| Maple Finance        | [link](https://github.com/maple-labs/maple-core-v2/tree/main/tests/invariants)                | Unknown                                     | 2023-12     |
-| Sablier V2 Core      | [link](https://github.com/sablier-labs/v2-core/tree/main/test/invariant)                      | [Paul Razvan Berg](https://x.com/PaulRBerg) | 2023-12     |
-| Wrapped Ether        | [link](https://github.com/horsefacts/weth-invariant-testing/tree/main)                        | [horsefacts](https://x.com/eth_call)        | 2023-11     |
-| DSS Conduits         | [link](https://github.com/makerdao/dss-conduits/tree/master/test/arranger-conduit/invariants) | Unknown                                     | 2023-10     |
-| Basin                | [link](https://github.com/BeanstalkFarms/Basin/tree/master/test/invariant)                    | Unknown                                     | 2023-08     |
-| LLama                | [link](https://github.com/llamaxyz/llama/tree/main/test/invariants)                           | Unknown                                     | 2023-07     |
-| Morpho               | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test)                   | Unknown                                     | 2023-05     |
+| Project              | Repository                                                                                    | Author(s)                                                                  | Last Commit |
+| -------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
+| Contract Level Yield | [link](https://github.com/contractlevel/yield/tree/main/test/invariant)                       | Unknown                                                                    | 2025-10     |
+| Ion Protocol         | [link](https://github.com/Ion-Protocol/ion-protocol/tree/master/test/invariant/IonPool)       | [Hrik](https://x.com/HrikBho)                                              | 2024-05     |
+| Ajna Finance         | [link](https://github.com/ajna-finance/ajna-core/tree/master/tests/forge/invariants)          | Unknown                                                                    | 2024-01     |
+| Alchemix             | [link](https://github.com/alchemix-finance/v2-foundry/tree/master/src/test)                   | Unknown                                                                    | 2024-01     |
+| Maple Finance        | [link](https://github.com/maple-labs/maple-core-v2/tree/main/tests/invariants)                | Unknown                                                                    | 2023-12     |
+| Sablier V2 Core      | [link](https://github.com/sablier-labs/v2-core/tree/main/test/invariant)                      | [Paul Razvan Berg](https://x.com/PaulRBerg)                                | 2023-12     |
+| Wrapped Ether        | [link](https://github.com/horsefacts/weth-invariant-testing/tree/main)                        | [horsefacts](https://x.com/eth_call)                                       | 2023-11     |
+| DSS Conduits         | [link](https://github.com/makerdao/dss-conduits/tree/master/test/arranger-conduit/invariants) | Unknown                                                                    | 2023-10     |
+| Basin                | [link](https://github.com/BeanstalkFarms/Basin/tree/master/test/invariant)                    | [Alex Roan](https://x.com/alexroan) ([Cyfrin](https://x.com/CyfrinAudits)) | 2023-08     |
+| LLama                | [link](https://github.com/llamaxyz/llama/tree/main/test/invariants)                           | Unknown                                                                    | 2023-07     |
+| Morpho               | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test)                   | Unknown                                                                    | 2023-05     |
 
