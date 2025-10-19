@@ -8,9 +8,11 @@ If you know of a campaign that's missing, feel free to reach out on X or open a 
 ## Echidna & Medusa
 | Project                   | Repository                                                                                                                                           | Author(s)                                                                                                                   | Last Commit |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| DODO Cross-Chain DEX      | [link](https://github.com/pyk/dodocc-fuzz/tree/main/test/fuzzing)                                                                                    | [pyk](https://x.com/sepyke)                                                                                                 | 2025-06     |
 | Strata                    | [link](https://github.com/Strata-Money/contracts/tree/master/test/recon)                                                                             | [Giovanni Di Siena](https://x.com/giovannidisiena) ([Cyfrin](https://x.com/CyfrinAudits))                                   | 2025-06     |
 | Bunni                     | [link](https://github.com/Bunniapp/bunni-v2/tree/main/fuzz)                                                                                          | [Tutturu](https://x.com/TuturuTech) ([Trail of Bits](https://x.com/trailofbits))                                            | 2025-05     |
 | Origin Protocol WOETH     | [link](https://github.com/perimetersec/origin-woeth-fuzz)                                                                                            | [Rappie](https://x.com/rappie_eth) ([Perimeter](https://x.com/perimeter_sec))                                               | 2025-04     |
+| EulerSwap                 | [link](https://github.com/euler-xyz/euler-swap/tree/enigmadark-invariant-suite/test/enigma-dark-invariants)                                          | [vnmrtz.eth](https://x.com/vn_martinez_) ([Enigma Dark](https://x.com/EnigmadarkLabs))                                      | 2025-03     |
 | eBTC BSM                  | [link](https://github.com/ebtc-protocol/ebtc-bsm/tree/main/test/recon-core)                                                                          | [Alex The Entreprenerd](https://x.com/GalloDaSballo), [nican0r](https://x.com/nican0r) ([Recon](https://x.com/getreconxyz)) | 2025-03     |
 | Gamma                     | [link](https://github.com/CodeHawks-Contests/2025-02-gamma/tree/main/test/fuzzing/echidna)                                                           | [FORKFORK DOG](https://x.com/forkforkdog) ([Guardian Audits](https://x.com/GuardianAudits))                                 | 2025-02     |
 | Aave v3.3                 | [link](https://github.com/bgd-labs/aave-v3-origin/tree/main/tests/invariants)                                                                        | [vnmrtz.eth](https://x.com/vn_martinez_) ([Enigma Dark](https://x.com/EnigmadarkLabs))                                      | 2025-02     |
@@ -54,16 +56,17 @@ If you know of a campaign that's missing, feel free to reach out on X or open a 
 | Circle FiatToken          | [link](https://github.com/circlefin/stablecoin-evm/tree/master/echidna_tests)                                                                        | Unknown                                                                                                                     | 2018-08     |
 
 ## Foundry Invariant Testing
-| Project         | Repository                                                                                    | Author(s)                                   | Last Commit |
-| --------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- |
-| Ion Protocol    | [link](https://github.com/Ion-Protocol/ion-protocol/tree/master/test/invariant/IonPool)       | [Hrik](https://x.com/HrikBho)               | 2024-05     |
-| Ajna Finance    | [link](https://github.com/ajna-finance/ajna-core/tree/master/tests/forge/invariants)          | Unknown                                     | 2024-01     |
-| Alchemix        | [link](https://github.com/alchemix-finance/v2-foundry/tree/master/src/test)                   | Unknown                                     | 2024-01     |
-| Maple Finance   | [link](https://github.com/maple-labs/maple-core-v2/tree/main/tests/invariants)                | Unknown                                     | 2023-12     |
-| Sablier V2 Core | [link](https://github.com/sablier-labs/v2-core/tree/main/test/invariant)                      | [Paul Razvan Berg](https://x.com/PaulRBerg) | 2023-12     |
-| Wrapped Ether   | [link](https://github.com/horsefacts/weth-invariant-testing/tree/main)                        | [horsefacts](https://x.com/eth_call)        | 2023-11     |
-| DSS Conduits    | [link](https://github.com/makerdao/dss-conduits/tree/master/test/arranger-conduit/invariants) | Unknown                                     | 2023-10     |
-| Basin           | [link](https://github.com/BeanstalkFarms/Basin/tree/master/test/invariant)                    | Unknown                                     | 2023-08     |
-| LLama           | [link](https://github.com/llamaxyz/llama/tree/main/test/invariants)                           | Unknown                                     | 2023-07     |
-| Morpho          | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test)                   | Unknown                                     | 2023-05     |
+| Project              | Repository                                                                                    | Author(s)                                   | Last Commit |
+| -------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- |
+| Contract Level Yield | [link](https://github.com/contractlevel/yield/tree/main/test/invariant)                       | Unknown                                     | 2025-10     |
+| Ion Protocol         | [link](https://github.com/Ion-Protocol/ion-protocol/tree/master/test/invariant/IonPool)       | [Hrik](https://x.com/HrikBho)               | 2024-05     |
+| Ajna Finance         | [link](https://github.com/ajna-finance/ajna-core/tree/master/tests/forge/invariants)          | Unknown                                     | 2024-01     |
+| Alchemix             | [link](https://github.com/alchemix-finance/v2-foundry/tree/master/src/test)                   | Unknown                                     | 2024-01     |
+| Maple Finance        | [link](https://github.com/maple-labs/maple-core-v2/tree/main/tests/invariants)                | Unknown                                     | 2023-12     |
+| Sablier V2 Core      | [link](https://github.com/sablier-labs/v2-core/tree/main/test/invariant)                      | [Paul Razvan Berg](https://x.com/PaulRBerg) | 2023-12     |
+| Wrapped Ether        | [link](https://github.com/horsefacts/weth-invariant-testing/tree/main)                        | [horsefacts](https://x.com/eth_call)        | 2023-11     |
+| DSS Conduits         | [link](https://github.com/makerdao/dss-conduits/tree/master/test/arranger-conduit/invariants) | Unknown                                     | 2023-10     |
+| Basin                | [link](https://github.com/BeanstalkFarms/Basin/tree/master/test/invariant)                    | Unknown                                     | 2023-08     |
+| LLama                | [link](https://github.com/llamaxyz/llama/tree/main/test/invariants)                           | Unknown                                     | 2023-07     |
+| Morpho               | [link](https://github.com/morpho-org/morpho-data-structures/tree/main/test)                   | Unknown                                     | 2023-05     |
 
